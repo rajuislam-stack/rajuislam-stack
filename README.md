@@ -115,7 +115,7 @@ Currently learning and building web applications.
 <a href="https://www.youtube.com/@lifeslowR">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" />
 </a>
-<a href="ADD_YOUR_LEETCODE_PROFILE_LINK">
+<a href="https://leetcode.com/u/mdrajuislam_programmer/>
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117" alt="LeetCode" />
 </a>
 
