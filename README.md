@@ -1,26 +1,26 @@
 <div align="center">
 
+<p align="left">
+  <img 
+    src="https://edge1s.com/wp-content/uploads/2025/05/React.gif" 
+    alt="React GIF" 
+    width="200"
+  />
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2300&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I+am+MD+Raju+Islam;%E2%9A%9B%EF%B8%8F+I+am+a+React+Developer;%F0%9F%8E%A8+I+am+a+Frontend+Developer;%F0%9F%A7%A9+I+am+a+Problem+Solver;%F0%9F%9A%80+I+Love+Building+Modern+User+Interfaces" alt="Typing Intro" />
 
 <br/><br/>
 
-<h1>
-  <span style="
-    font-family: 'Fira Code', 'Cascadia Code', monospace;
-    font-size: 72px;
-    font-weight: 900;
-    letter-spacing: 1px;
-    background: linear-gradient(90deg, #7B61FF, #A855F7, #FF4FD8, #7B61FF);
-    background-size: 300% 300%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 28px rgba(123, 97, 255, 0.55);
-  ">
-    MD Raju Islam
-  </span>
-</h1>
-
-<p>
+<p align="left">
+  <img align ='left'
+    src="./assets/md-raju-islam.svg"
+    alt="MD Raju Islam"
+    width="900"
+  />
+</p>
+<hr width="100%">
+<p align= "left">
   <img src="https://img.shields.io/badge/Frontend%20Developer-00F5FF?style=for-the-badge&logo=react&logoColor=0D1117&labelColor=0D1117" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/React%20Developer-7B61FF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=0D1117" alt="React Developer" />
   <img src="https://img.shields.io/badge/Problem%20Solver-FF4FD8?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=0D1117" alt="Problem Solver" />
@@ -43,13 +43,16 @@
 
 <table >
 <tr>
-<td width ="58%" align="center">
+<td width ="58%" align="left">
 
-### About Me 😎
+###(R) About Me 😎
 
-I am **MD Raju Islam**, a **Frontend Developer** and **React Developer**.  
-I enjoy creating clean, responsive, and modern web applications.  
-Currently learning and building web applications.
+I am **MD Raju Islam**, a passionate **Frontend Developer** with a growing focus on **React Development**.
+
+I enjoy building clean, responsive, and modern web applications that provide great user experiences. Currently, I am learning **React** and strengthening my frontend development skills through continuous practice and real-world projects.
+
+🚀 Always eager to learn new technologies, improve my problem-solving abilities, and move one step closer to becoming a skilled **Full Stack Developer**.
+
 
 </td>
   <td>
@@ -64,7 +67,7 @@ Currently learning and building web applications.
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ### 🛠️ Skills
 
@@ -84,28 +87,30 @@ Currently learning and building web applications.
 
 <br/>
 
-<div align="center">
 
-### 📊 GitHub Stats
+<div align="left">
+
+## 📊 GitHub Stats
 
 <table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rajuislam-stack&show_icons=true&theme=transparent&hide_border=true&title_color=7B61FF&icon_color=FF4FD8&text_color=FFFFFF&ring_color=00F5FF" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuislam-stack&layout=compact&theme=transparent&hide_border=true&title_color=7B61FF&text_color=FFFFFF" alt="Top Languages" />
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rajuislam-stack&show_icons=true&hide_border=true&theme=transparent&title_color=7B61FF&icon_color=FF4FD8&text_color=FFFFFF" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuislam-stack&layout=compact&hide_border=true&theme=transparent&title_color=7B61FF&text_color=FFFFFF" />
+    </td>
+  </tr>
 </table>
 
-<img width="62%" src="https://streak-stats.demolab.com?user=rajuislam-stack&theme=transparent&hide_border=true&ring=7B61FF&fire=FF4FD8&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+<br>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=rajuislam-stack&hide_border=true&background=00000000&ring=7B61FF&fire=FF4FD8&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 </div>
-
 <br/>
 
-<div align="center">
+<div align="left">
 
 ### 🌐 Connect With Me
 
@@ -115,10 +120,12 @@ Currently learning and building web applications.
 <a href="https://www.youtube.com/@lifeslowR">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" />
 </a>
-<a href="https://leetcode.com/u/mdrajuislam_programmer/>
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117" alt="LeetCode" />
+<a href="https://leetcode.com/u/mdrajuislam_programmer/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-
+<a href="https://wa.me/8801755474787?text=Hello%20Raju,%20I%20found%20your%20GitHub%20profile!">
+  <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rajuislam-stack&style=for-the-badge&color=7B61FF&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -127,7 +134,7 @@ Currently learning and building web applications.
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F5FF,35:7B61FF,70:FF4FD8,100:00F5FF" alt="Gradient Line" />
 
