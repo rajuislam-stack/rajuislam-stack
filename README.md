@@ -95,17 +95,17 @@ I enjoy building clean, responsive, and modern web applications that provide gre
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rajuislam-stack&show_icons=true&hide_border=true&theme=transparent&title_color=7B61FF&icon_color=FF4FD8&text_color=FFFFFF" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rajuislam-stack&show_icons=true&hide_border=true&theme=default&title_color=7B61FF&icon_color=FF4FD8&text_color=4B5563" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuislam-stack&layout=compact&hide_border=true&theme=transparent&title_color=7B61FF&text_color=FFFFFF" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rajuislam-stack&layout=compact&hide_border=true&theme=default&title_color=7B61FF&text_color=4B5563" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=rajuislam-stack&hide_border=true&background=00000000&ring=7B61FF&fire=FF4FD8&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+<img width="100%" src="https://streak-stats.demolab.com?user=rajuislam-stack&hide_border=true&background=00000000&ring=7B61FF&fire=FF4FD8&currStreakLabel=00F5FF&sideLabels=4B5563&dates=4B5563&sideNums=4B5563&currStreakNum=4B5563" alt="GitHub Streak" />
 
 </div>
 <br/>
